@@ -6,7 +6,7 @@ Electrum ZEC Wallet
 
 Badges
 ------
-.. image:: https://img.shields.io/github/v/release/zaemzasto/Electrum-ZEC?logo=github&color=brightgreen
+.. image:: https://img.shields.io/github/v/release/zaemzasto/Electrum-ZEC?logo=github&color=brightgreen  
    :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
    :alt: Latest Release
 
