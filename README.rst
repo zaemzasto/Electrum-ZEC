@@ -41,10 +41,8 @@ Option 1: Precompiled Binaries
 Option 2: Running from Source
 -----------------------------
 1. **Clone the repository**:
-`````
       git clone https://github.com/zaemzasto/Electrum-ZEC.git
       cd Electrum-ZEC
-`````
 2. **Install dependencies**:
       python3 -m pip install --user ".[gui,crypto]"
 
