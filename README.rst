@@ -10,7 +10,7 @@ Badges
 
 
 .. image:: https://img.shields.io/github/license/zaemzasto/Electrum-ZEC?color=blue&logo=openjdk
-   :target: https://github.com/zaemzasto/Electrum-ZEC/blob/main/LICENCE
+   :target: https://github.com/zaemzasto/Electrum-ZEC/blob/master/LICENCE
    :alt: License
 .. image:: https://img.shields.io/badge/Open%20Source-100%25-ff69b4?style=flat&logo=github
    :alt: Open Source
