@@ -32,17 +32,17 @@ Choose your platform below:
 .. container:: download-buttons
 
    .. image:: https://img.shields.io/badge/Download-Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white
-      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.exe
       :alt: Download for Windows
       :align: center
 
    .. image:: https://img.shields.io/badge/Download-macOS-E53935?style=for-the-badge&logo=apple&logoColor=white
-      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.dmg
       :alt: Download for macOS
       :align: center
 
    .. image:: https://img.shields.io/badge/Download-Linux-43A047?style=for-the-badge&logo=linux&logoColor=white
-      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/tag/v2.8.9
+      :target: https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.x86_64.AppImage
       :alt: Download for Linux
       :align: center
 
