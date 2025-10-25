@@ -25,9 +25,9 @@ Choose your platform below:
    * - **Windows**
      - **macOS**
      - **Linux**
-   * - `Download for Windows <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.exe>`_
-   * - `Download for macOS <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.dmg>`_
-   * - `Download for Linux <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.8.9.x86_64.AppImage>`_
+   * - `Download for Windows <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.9.0.exe>`_
+   * - `Download for macOS <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.8.9/electrum-zec-2.9.0.dmg>`_
+   * - `Download for Linux <https://github.com/zaemzasto/Electrum-ZEC/releases/download/v2.9.0/electrum-zec-2.9.0.x86_64.AppImage>`_
 
 .. container:: download-buttons
 
